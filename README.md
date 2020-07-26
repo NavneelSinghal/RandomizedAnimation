@@ -32,4 +32,4 @@ Here K is chosen to be a weighted average of the vectors P, A and B, with the we
 
 Which regions can P lie in, and which regions can it not occupy (with a high probability)?
 
-In this simulation, the weights were chosen to be proportional to appropriate powers of the opposite sides, with the exponents ranging from 0.35 to 0.60, with an animation demonstrating the shifting of the high-probability loci of the points P with the exponent changing in steps of 0.2.
+In this simulation, the weights were chosen to be proportional to appropriate powers of the opposite sides, with the exponents ranging from 0.35 to 0.60, with an animation demonstrating the shifting of the high-probability loci of the points P with the exponent changing in steps of 0.02 (or 0.01, based on the command-line arguments passed to the script).
